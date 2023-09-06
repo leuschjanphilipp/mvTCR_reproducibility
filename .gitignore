@@ -9,3 +9,4 @@ baseline/*/
 figures/*.pdf
 figures/*.svg
 data/
+logs/
